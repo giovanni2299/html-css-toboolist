@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    
+}
+
+.logo-title{
+    font-size: 50px;
+    vertical-align:baseline;
+    display: inline-block;
+}
+
+main{
+    background-color: #b1b0b0;
+}
+
+.container{
+    padding-top: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.aside-box{
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.add{
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.task{
+    background-color: lightblue;
+    color: white;
+    margin-left: 50px;
+}
+
+.section{
+    background-color: white;
+    color: grey;
+}

@@ -68,7 +68,7 @@ header{
 }
 
 .list-content{
-    font-size: 15px;
+    font-size: 18px;
     margin-bottom: 15px;
 }
 
@@ -87,9 +87,10 @@ header{
 
 .squere{
     display: inline-block;
-    border-radius: 5px;
+    border-radius: 10px;
     padding: 3px 5px;
     color: white;
+    font-size: 12px;
 }
 
 .light-blue{

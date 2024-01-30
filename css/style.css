@@ -32,7 +32,7 @@ header{
 
 .box{
     padding: 10px;
-    width: 100%;
+    max-width: 100%;
     border-radius: 5px;
     background-color: white;
 }
@@ -46,7 +46,7 @@ header{
 }
 
 .add{
-    width: 90px;
+    max-width: 90px;
     height: 30px;
     border-radius: 5px;
 }
